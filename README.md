@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I am Manoj M a robotics enthusiast currently working at RobotoAI Techonlogy on Docker and Docker for deployment and development in the ROS ecosystem.
+I am Manoj M a robotics enthusiast currently working at [RobotoAI Techonlogies](https://robotoai.com/) on Docker and Docker for deployment and development in the ROS ecosystem.
 
 Previously, I was at:
-- (Jul 2022) Enthu Technology as an Intern in IoT Domain.
-- (Oct 2022 - Feb 2023) Forge Innovation & Ventures as an Graduate Innovation Engineer Trainee.
+- (Jul 2022) [Enthu Technology Solutions](https://www.enthutech.in/home) as an Intern in IoT Domain.
+- (Oct 2022 - Feb 2023) [Forge Innovation & Ventures](https://www.forgeforward.in/) as an Graduate Innovation Engineer Trainee.
 
 🌱 I’m currently learning
 
