@@ -8,16 +8,16 @@ Previously, I was at:
 
 🌱 I’m currently learning
 
-- Programming Languages: C, C++, Python
+- Programming Languages:Python, C, C++ and Rust
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+      <img src="https://skillicons.dev/icons?i=python,c,cpp,rust" />
     </a>
   </p>
-- Softwares and Tools: arduino, git, docker, vscode, ros2
+- Softwares and Tools: arduino, docker, ros2, git and linux
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arduino,git,docker,vscode,ros" />
+      <img src="https://skillicons.dev/icons?i=arduino,docker,ros,git,linux" />
     </a>
   </p>
   
