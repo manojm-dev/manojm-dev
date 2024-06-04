@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I am Manoj M, a robotics enthusiast currently working at [RobotoAI Techonlogies](https://robotoai.com/) on Docker for deployment and development in the ROS ecosystem.
 
@@ -6,7 +6,7 @@ Previously, I was at:
 - (Jul 2022) [Enthu Technology Solutions](https://www.enthutech.in/home) as an Intern in IoT Domain.
 - (Oct 2022 - Feb 2023) [Forge Innovation & Ventures](https://www.forgeforward.in/) as an Graduate Innovation Engineer Trainee.
 
-🌱 I’m currently learning
+## 🌱 I’m currently learning
 
 - Programming Languages:Bash, Python, C, C++ and Rust
   <p align="left">
@@ -14,10 +14,10 @@ Previously, I was at:
       <img src="https://skillicons.dev/icons?i=bash,python,c,cpp,rust" />
     </a>
   </p>
-- Softwares and Tools: arduino, docker, ros2, git and linux
+- Softwares and Tools: Linux, Git, Arduino, ROS, ROS2 and Docker
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=arduino,docker,ros,git,linux" />
+      <img src="https://skillicons.dev/icons?i=linux,git,arduino,ros,docker" />
     </a>
   </p>
   
