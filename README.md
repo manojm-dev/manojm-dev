@@ -8,7 +8,7 @@ Previously, I was at:
 
 ## 🌱 I’m currently learning
 
-- Programming Languages:Python, C, C++ and Rust
+- Programming Languages: Python, C, C++ and Rust
   <p align="left">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=python,c,cpp,rust" />
