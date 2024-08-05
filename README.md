@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Manoj M, a robotics enthusiast currently working at [RobotoAI Techonlogies](https://robotoai.com/) on Docker for deployment and development in the ROS ecosystem.
+I am Manoj M, a robotics enthusiast currently working at [RobotoAI Techonlogies](https://robotoai.com/) as Robotics Software Engineer.
 
 Previously, I was at:
 - (Jul 2022) [Enthu Technology Solutions](https://www.enthutech.in/home) as an Intern in IoT Domain.
