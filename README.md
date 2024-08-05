@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I am Manoj M, a robotics enthusiast currently working at [RobotoAI Techonlogies](https://robotoai.com/) as Robotics Software Engineer.
+I am Manoj M, a robotics enthusiast
 
 Previously, I was at:
-- (Jul 2022) [Enthu Technology Solutions](https://www.enthutech.in/home) as an Intern in IoT Domain.
+- (Jan 2024 - present) [RobotoAI Techonlogies](https://robotoai.com/) as Robotics Software Engineer.
 - (Oct 2022 - Feb 2023) [Forge Innovation & Ventures](https://www.forgeforward.in/) as an Graduate Innovation Engineer Trainee.
+- (Jul 2022 - Jul 2022) [Enthu Technology Solutions](https://www.enthutech.in/home) as an Intern in IoT Domain.
 
 ## 🌱 I’m currently learning
 
