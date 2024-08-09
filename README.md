@@ -9,10 +9,10 @@ Previously, I was at:
 
 ## 🌱 I’m currently learning
 
-- Programming Languages: Python, C, C++ and Rust
+- Programming Languages: Python, C and C++ 
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,c,cpp,rust" />
+      <img src="https://skillicons.dev/icons?i=python,c,cpp" />
     </a>
   </p>
 - Softwares and Tools: Linux, Git, Arduino, ROS, ROS2 and Docker
