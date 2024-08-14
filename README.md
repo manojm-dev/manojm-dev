@@ -15,10 +15,10 @@ Previously, I was at:
       <img src="https://skillicons.dev/icons?i=python,c,cpp,bash" />
     </a>
   </p>
-- Softwares and Tools: Linux, Git, Arduino, ROS, ROS2 and Docker
+- Softwares and Tools: Linux, Git, Arduino, ROS1/ROS2, Gazebo Simulator and Docker
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=linux,git,arduino,ros,docker" />
+      <img src="https://skillicons.dev/icons?i=linux,git,arduino,ros,gazebo,docker" />
     </a>
   </p>
   
