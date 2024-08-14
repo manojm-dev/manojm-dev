@@ -1,16 +1,12 @@
 ## Hi there 👋
 
-I am **Manoj M**, a robotics enthusiast focused on developing robots.
+I am **Manoj M**, a robotics enthusiast focused on developing robots and I'm currently working on the development, testing and deployment of autonomous mobile robots.
 
 ### 🔧 Skills & Tools
 
 - **Languages**: Python, C, C++, Bash
 - **Tools**: Git, CMake, Docker
 - **Platforms**: GNU/Linux, ROS1/ROS2, Gazebo, Arduino
-
-### 🚀 Current Focus
-
-I'm currently working on the development, testing and deployment of autonomous mobile robots.
 
 ---
 
