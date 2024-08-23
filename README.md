@@ -17,5 +17,5 @@ I am **Manoj M**, a robotics enthusiast focused on developing robots and I'm cur
 
  ## My Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manojm-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojm-dev&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=manojm-dev&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&rank_icon=github" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojm-dev&layout=compact&theme=buefy&hide_border=true&exclude_repo=MemeVault,ros2_book,portfolio" /></a> |
 | ------------- | ------------- |
