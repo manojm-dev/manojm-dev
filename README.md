@@ -17,4 +17,4 @@ I am **Manoj M**, a robotics enthusiast focused on developing robots and I'm cur
 
  ## My Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojm-dev&layout=compact&theme=buefy&hide_border=true&exclude_repo=MemeVault,ros2_book,portfolio" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojm-dev&layout=compact&theme=dark&hide_border=true&exclude_repo=MemeVault,ros2_book,portfolio" /></a> 
